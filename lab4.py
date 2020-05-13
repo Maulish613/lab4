@@ -21,3 +21,4 @@ for i in fin:
                 new_word+= j
         print(new_word)
                 
+print('hello')
